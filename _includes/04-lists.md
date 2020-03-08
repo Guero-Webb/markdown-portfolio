@@ -3,3 +3,4 @@
 - Disco dancing
 - Open source
 - Learning Git and Github
+- Finishing what I start
